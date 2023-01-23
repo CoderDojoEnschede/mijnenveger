@@ -1,4 +1,4 @@
-# Mijnenveger opdracht 1> Alle bestanden doen mee<hr>
+# Mijnenveger opdracht 1> Opmaak, JavaScript en nog wat<hr>
 
 Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
 
@@ -6,7 +6,7 @@ Om de code toe te voegen, moeten we een verwijzing opnemen naar de 2  bestanden.
 
 De JavaScript code staat in het bestand `mijnenveger.js`
 
-## Opdracht 1a: Pagina opmaak (css) toevoegen
+## Opdracht 1a: Pagina opmaak
 
 De opmaak code (CSS) staat in het bestand `mijnenveger.css`<br>
 
@@ -28,7 +28,7 @@ Probeer eerst zelf het antwoord te vinden en pas als het echt niet lukt, dan mag
 
 Merk op wat het effect van het toevoegen van de opmaak code is voor je webpagina (rechterdeel van het browser scherm).
 
-## Opdracht 1b: JavaScript toevoegen
+## Opdracht 1b: JavaScript
 
 Het spel heeft JavaScript nodig om goed te kunnen werken. Om de code toe te voegen moeten we, net als voor de opmaak, een verwijzing opnemen naar het bestand met de JavaScript code. Ook deze verwijzing hoort thuis in de *&lt;head&gt;* sectie in het bestand `index.html`.
 
@@ -51,13 +51,13 @@ Probeer eerst zelf het antwoord te vinden voordat je het antwoord controleert bi
 >  &lt;/head&gt;<br>
 </details>
 
-#### Opdracht 1c: De naam van het spel in de webpagina
+#### Opdracht 1c: Hoe heet ik?
 Op de pagina willen we graag de naam van het spel `Mijnenveger`als kop in grootte 2 hebben. Onder de kopregel moet een horizontale scheidslijn komen. Voeg de benodigde code hiervoor toe in het bestand `index.html`.
 
 ▶▶▶ Zoek *Opdracht 1c* in het bestand `index.html`en voeg de benodigde code op de juiste plaats toe.
 
 <details>
-  <summary>Oplossing 1b</summary>
+  <summary>Oplossing 1c</summary>
 	 **&lt;h2&gt;Mijnenveger&lt;/h2&gt;&lt;hr&gt;**	
 </details>
 
@@ -65,9 +65,9 @@ Het resultaat moet eruit zien als in de afbeelding hieronder<br>
 ![](images/1.png)
 
 <center>
-&emsp;<a href="./mijnenveger-opdracht0.md"><-- De programmeeromgeving opzetten</a>
-&emsp;<a href="./Instructies.md">Startpagina</a> 
-&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 2 --></a>
+&emsp;<a href="./mijnenveger-opdracht0.md"><-- De werkomgeving</a>
+&emsp;<a href="./Instructies.md">Start</a> 
+&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 2 --></a>
 </center>
 
 
