@@ -7,11 +7,18 @@ Bij de versie op hiervoor genoemde website is geen licentie informatie gevonden.
 
 Licentie: CC0 1.0 Universal. Je mag deze code overal gebruiken, in je eigen projecten of om er geld mee te verdienen. Er is geen enkele verplichting om te verwijzen naar deze pagina of Coderdojo Enschede, maar het wordt wel gewaardeerd.
 
+Structuur:
+index.html {de startpagina}
+css/mijnenveger.css {de opmaak voor mijnenveger}
+images/mijnenvegern_n.png|jpg {images *}
+js/mijnenveger.js {de benodigde JavaScript code}
+
+\* Images naamconventie is naamX_Y.extentie, waarbij X is nummer van opdracht en Y is een volgnummer van het image op die pagina.
+
 Suggesties voor opdrachten voor de code:
 
 -   html voorbereiden (id's invullen), zodat de scherm objecten matchen met de css en js objecten
 -	 een pop-up scherm met uitleg van het doel van het spel.   
--	 externe verwijzingen naar de css en js bestanden toevoegen, zodat html pagina de daarin opgenomen code weet te vinden.
 -   aantal kolommen, rijen en bommen van het mijnenveld instellen
 -   kleuren aantal aangrenzende vakken met bom erin van mono kleur veranderen naar eigen kleur per nummer
 -   naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizontale scheidingslijn
