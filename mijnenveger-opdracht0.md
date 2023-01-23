@@ -1,4 +1,4 @@
-# Opdracht 0> Openen van de programmeeromgeving<hr>
+# Opdracht 0: De werkomgeving<hr>
 
 De code waarin je gaat werken, staat in *Trinket*. Trinket is een website waarop je kan programmeren en direct het resultaat ziet van wat je hebt aangepast.
 
@@ -12,6 +12,6 @@ Je moet nu aan de linker kant code zien en aan de rechter kant het nog niet werk
 En nu begint het echte werk!
 
 <center>
-<a href="./Instructies.md">Home</a> 
-&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 1</a>
+<a href="./Instructies.md">Start</a>&emsp; 
+|&emsp;<a href="./mijnenveger-opdracht1.md">Opmaak, JavaScript en titel --></a>
 </center>
