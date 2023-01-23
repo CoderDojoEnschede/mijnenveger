@@ -1,17 +1,73 @@
-# Opdracht 0> Openen van de programmeeromgeving<hr>
+# Mijnenveger opdracht 1> Alle bestanden doen mee<hr>
 
-De code waarin je gaat werken, staat in *Trinket*. Trinket is een website waarop je kan programmeren en direct het resultaat ziet van wat je hebt aangepast.
+Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
 
-▶▶▶ Open Trinket door op de link te klikken: https://trinket.io/embed/html/xxxxxxxxxxxx --> trinket pagina nog toevoegen)
+Om de code toe te voegen, moeten we een verwijzing opnemen naar de 2  bestanden. De verwijzingen moeten in de *&lt;head&gt;* sectie komen in het bestand `index.html`.
 
-Je moet nu aan de linker kant code zien en aan de rechter kant het nog niet werkende spel Mijnenveger. Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisch na een paar seconden aan de rechterkant. 
- > Wordt de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
+De JavaScript code staat in het bestand `mijnenveger.js`
 
-![](images/afbeelding van Minesweeper in Trinket 0.png)
+## Opdracht 1a: Pagina opmaak (css) toevoegen
 
-En nu begint het echte werk!
+De opmaak code (CSS) staat in het bestand `mijnenveger.css`<br>
+
+Zoek zelf uit welke instructie nodig is om dit bestand met css code op te nemen in het spel.<br><br>_Hint: je hebt de tag &lt;link&gt; voor het opmaak (css) bestand_  
+
+Probeer eerst zelf het antwoord te vinden en pas als het echt niet lukt, dan mag je bij Oplossing 1a spieken.
+
+▶▶▶ Zoek *Opdracht 1a* in het bestand `index.html` en voeg de code op de juiste plaats toe.
+
+<details>
+  <summary>Oplossing 1a</summary>
+
+>  &lt;head&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Mijnenveger&lt;/title&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;link rel="stylesheet" href="css/mijnenveger.css" type="text/css"&gt;**<br>
+>  &lt;/head&gt;<br>
+</details>
+
+Merk op wat het effect van het toevoegen van de opmaak code is voor je webpagina (rechterdeel van het browser scherm).
+
+## Opdracht 1b: JavaScript toevoegen
+
+Het spel heeft JavaScript nodig om goed te kunnen werken. Om de code toe te voegen moeten we, net als voor de opmaak, een verwijzing opnemen naar het bestand met de JavaScript code. Ook deze verwijzing hoort thuis in de *&lt;head&gt;* sectie in het bestand `index.html`.
+
+De JavaScript code staat in het bestand `mijnenveger.js`
+
+Zoek zelf uit welke instructie nodig is om dit bestand op te nemen in het spel.<br><br> _Hint: je hebt de tag &lt;script&gt; nodig voor het JavaScript bestand_
+
+Probeer eerst zelf het antwoord te vinden voordat je het antwoord controleert bij oplossing 1b spieken.
+
+▶▶▶ Zoek *Opdracht 1b* in het bestand `index.html` en voeg de code op de juiste plaats toe.
+
+<details>
+  <summary>Oplossing 1b</summary>
+
+>  &lt;head&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Mijnenveger&lt;/title&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;link rel="stylesheet" href="css/mijnenveger.css" type="text/css"&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;script type="text/javascript" src="js/mijnenveger.js"&gt;\&lt;/script&gt;**<br>
+>  &lt;/head&gt;<br>
+</details>
+
+#### Opdracht 1c: De naam van het spel in de webpagina
+Op de pagina willen we graag de naam van het spel `Mijnenveger`als kop in grootte 2 hebben. Onder de kopregel moet een horizontale scheidslijn komen. Voeg de benodigde code hiervoor toe in het bestand `index.html`.
+
+▶▶▶ Zoek *Opdracht 1c* in het bestand `index.html`en voeg de benodigde code op de juiste plaats toe.
+
+<details>
+  <summary>Oplossing 1b</summary>
+	 **&lt;h2&gt;Mijnenveger&lt;/h2&gt;&lt;hr&gt;**	
+</details>
+
+Het resultaat moet eruit zien als in de afbeelding hieronder<br>
+![](images/1.png)
 
 <center>
-<a href="./Instructies.md">Home</a> 
-&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 1</a>
+&emsp;<a href="./mijnenveger-opdracht0.md"><-- De programmeeromgeving opzetten</a>
+&emsp;<a href="./Instructies.md">Startpagina</a> 
+&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 2 --></a>
 </center>
+
+
