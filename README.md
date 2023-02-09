@@ -15,21 +15,44 @@ js/mijnenveger.js {de benodigde JavaScript code}
 
 \* Images naamconventie is naamX_Y.extentie, waarbij X is nummer van opdracht en Y is een volgnummer van het image op die pagina.
 
-Suggesties voor opdrachten voor de code:
+Opdrachten
+0: Trinket werkomgeving instellen
 
--   html voorbereiden (id's invullen), zodat de scherm objecten matchen met de css en js objecten
--	 een pop-up scherm met uitleg van het doel van het spel.   
--   aantal kolommen, rijen en bommen van het mijnenveld instellen
--   kleuren aantal aangrenzende vakken met bom erin van mono kleur veranderen naar eigen kleur per nummer
--   naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizontale scheidingslijn
--   de functie game-over opbouwen als op een bomveld wordt geklikt
--   button toevoegen om een nieuw spel te starten na eindige vorige spel
+1: HTML/CSS/JavaScript links activeren --> spel zichtbaar
+naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizontale scheidingslijn
+
+Het spel is nog niet echt fraai.
+2: We klikken, maar wat, maar geen idee waar velden zitten
+We tonen randen om de velden
+Uitleg dat het mijnenveld als een tabel is opgebouwd met allemaal vakjes. We zorgen dat er een rand om elk vakje komt.
+
+3: De cijfers zijn allemaal dezelfde kleur
+Uitleg over wat de cijfers betekenen
+We veranderen de cijfers, zodat elk cijfer een eigen kleur krijgt
+
+4: De B wordt een echte bom
+We gebruiken voor de bom een afbeelding ipv een letter
+
+5: Het spel stop niet
+We zorgen dat het spel eindigt met een melding als er op een bom wordt gestapt. functie game over
+
+6: we zijn F5 zat en willen een start nieuw spel knop
+
+7: we passen het aantal rijen en kolommen aan
+
+8: we veranderen het aantal bommen in ons spel
+
+9: we veranderen de veldgrootte
+(css) mits ook de karaktergrootte bom en getal bomvelden daarmee in overeenstemming zijn te brengen.
+
+10: we maken een popup met daarin een uitleg van het spel
+
 -   de kleur van geflagde velden naar eigen smaak veranderen
--   de veldgrootte veranderen (css) mits ook de karaktergrootte bom en getal bomvelden daarmee in overeenstemming zijn te brengen.
 -   het spel met de boolean alive manipuleren
 
-Extra opdrachten:
--   toevoegen van instel opties in het scherm om aantal kolommen, rijen en bommen in te stellen (nu hardcoded in js).
--   teller die afloopt naar 0 met max tijd welke speler krijgt om na vorige vak een volgend vak te openen.
--   oplopende moeilijkheid inbouwen bij elke keer dat het spel slaagt of via een levelkeuze (van klein veld of weinig bommen naar steeds groter mijnengebied met meer bommen.
--   Verfraaiing door bom afbeelding en andere visuele opmaak op de pagina toe te voegen (bijv in titelgebied)
+Extra opdrachten:  
+- 	toevoegen van instel opties in het scherm om aantal kolommen, rijen en bommen in te stellen (nu hardcoded in js).
+-   teller die afloopt naar 0 met max tijd welke speler krijgt om na vorige vak een volgend vak te openen.  
+-   oplopende moeilijkheid inbouwen bij elke keer dat het spel slaagt of via een levelkeuze (van klein veld of weinig bommen naar steeds groter mijnengebied met meer bommen.  
+-   Verfraaiing door bom afbeelding en andere visuele opmaak op de pagina toe te voegen (bijv in titelgebied)  
+

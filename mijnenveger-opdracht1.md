@@ -13,7 +13,7 @@ Zoek zelf uit welke instructie nodig is om dit bestand met css code op te nemen 
 
 Probeer eerst zelf het antwoord te vinden en pas als het echt niet lukt, dan mag je bij Oplossing 1a spieken.
 
-▶▶▶ Zoek *Opdracht 1a* in het bestand `index.html` en voeg de code op de juiste plaats toe. _Hint: je hebt de tag &lt;link&gt; voor het opmaak (css) bestand_
+▶▶▶ Zoek *Opdracht 1	a* in het bestand `index.html` en voeg de code op de juiste plaats toe. _Hint: je hebt de tag &lt;link&gt; voor het opmaak (css) bestand_
 
 <details>
   <summary>Oplossing 1a</summary>

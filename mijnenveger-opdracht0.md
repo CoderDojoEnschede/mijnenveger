@@ -1,17 +1,30 @@
 # Opdracht 0: De werkomgeving<hr>
 
-De code waarin je gaat werken, staat in *Trinket*. Trinket is een website waarop je kan programmeren en direct het resultaat ziet van wat je hebt aangepast.
+De code waarin je gaat werken, staat in *Trinket*. *Trinket* is een website waarop je in de linker helft van het scherm kan programmeren en in de rechter helft van het scherm direct het resultaat ziet van wat je hebt aangepast.  
 
-▶▶▶ Open Trinket door op de link te klikken: https://trinket.io/embed/html/xxxxxxxxxxxx --> trinket pagina nog toevoegen)
+<img src="images/trinket.png" alt="drawing" width="300" align="right"/>
 
-Je moet nu aan de linker kant code zien en aan de rechter kant het nog niet werkende spel Mijnenveger. Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisch na een paar seconden aan de rechterkant. 
- > Wordt de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
+Na het openen moet je aan de linker kant code zien en aan de rechter kant een pagina met het spel Mijnenveger. Maar, helaas is het spel nog niet af en zie je alleen nog maar een grijs vlak.
 
-![](images/afbeelding van Minesweeper in Trinket 0.png)
+Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisch na een paar seconden aan de rechterkant. 
 
-En nu begint het echte werk!
+ > Wordt na het aanpassen van je code de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
+
+<img src="images/mijnenveger0_1.png" alt="drawing" width="300" align="right"/>
+
+Het uiteindelijke spel komt er uit te zien als in de afbeelding hiernaast getoond.  
+
+Als je je **Trinket* werkomgeving geopend hebt, begint het echte werk! 
+<br><br><br><br><br>
+
+▶▶▶ Klik nu op <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">*Trinket*</a> om je werkomgeving te openen.  
+
+
+Om te navigeren tussen de opdrachten, vind je op elke pagina onderaan een aantal links waar je op kunt klikken.  
+Met de **Start** link keer je terug naar de overzichtspagina.  
+Klik op **opdracht 1** om naar opdracht 1 te gaan.  
 
 <center>
 <a href="./Instructies.md">Start</a>&emsp; 
-|&emsp;<a href="./mijnenveger-opdracht1.md">Opmaak, JavaScript en titel --></a>
+|&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 1</a>
 </center>
