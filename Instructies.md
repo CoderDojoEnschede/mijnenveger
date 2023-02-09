@@ -3,18 +3,20 @@
 Hallo! Jij wilt het spel **Mijnenveger** maken op de computer? Lees dan vooral verder ...
 
 ## Het spel Mijnenveger
-Het spel bestaat uit een veld met gesloten vakjes. Onder sommige vakjes zit een mijn verstopt. Doel van het spel is alle vakjes op het veld te openen waar geen mijn onder verstopt is. De allereerste zet klik je een vakje in het veld open en kun je alleen maar hopen dat er geen mijn onder zit. Als er geen mijn zit, zal er een nummer (1 tot en met 8) verschijnen in het vakje. De nummers in de geopende vakjes geeft het aantal vakjes weer die direct tegen het geopende vak aanliggen en waar een mijn onder zit. Tegenaan liggen kan recht of schuin (hoekpunt tegen hoekpunt) zijn. De kunst van het spel is om de nummers op de al geopende vlakjes logisch te combineren en zo uit te vinden waar mijnen liggen en die dus niet te openen, maar alleen de vakjes zonder mijn. Open je een vakje met een mijn eronder, dan is het spel afgelopen.
+Het spel bestaat uit een veld met gesloten vakjes. Onder sommige vakjes zit een mijn verstopt. Doel van het spel is alle vakjes op het veld te openen waar geen mijn onder verstopt is. De allereerste zet klik je een vakje in het mijnenveld open en kun je alleen maar hopen dat er geen mijn onder zit. Als er geen mijn zit, zal er een nummer (1 tot en met 8) verschijnen in het vakje. Dit nummer geeft het aantal vakjes weer die aangrenzend (recht of schuin)liggen en waar wel een mijn onder zit. De kunst van het spel is om alle vakjes zonder mijn open te klikken door de nummers te gebruiken om te achterhalen waar een mijn ligt. Die vakjes moet je dus niet openen. Open je een vakje met een mijn eronder, dan is het spel direct afgelopen.
 
-De moeilijkheidsgraad is afhankelijk van het aantal vakjes en de hoeveelheid mijnen die zijn verstopt. 
+De moeilijkheidsgraad van het spel is afhankelijk van het aantal vakjes en de hoeveelheid mijnen. 
 
 ## Wat ga je doen
-Bij dit spel hebben we niet alles voor je voorbereid. We verwachten van je dat je zelf ook zaken uitzoekt. Als je hulp nodig hebt, ga je zelf (bijvoorbeeld met Google) op zoek naar het antwoord of je vraagt iemand anders die dit spel (ook) heeft gemaakt. Als je dat al hebt gedaan en nog steeds niet weet hoe je verder moet, dan mag je hulp vragen aan een van de begeleiders.
+Er zijn nog een aantal zaken die nog niet af zijn of nog niet mooi genoeg zijn. Je gaat het spel werkend maken en ook op onderdelen wat mooier. Maar, we hebben niet alles voor je uitgewerkt. We verwachten dat je zelf zaken uitzoekt. Als je hulp nodig hebt, ga je zelf (bijvoorbeeld met Google) op zoek naar het antwoord of je vraagt iemand anders die dit spel (ook) heeft gemaakt. Als je dat al hebt gedaan en nog steeds niet weet hoe je verder moet, dan mag je hulp vragen aan een van de begeleiders (of stiekem bij de oplossing kijken).
 
 Op elke pagina welke hierna volgt, vind je een stukje uitleg en daarin een opdracht die jij zelf moet doen. De opdracht herken je doordat de regel begint met ▶▶▶
 
-<center>
-Aan de slag maar! 
+Om te navigeren tussen de opdrachten, vind je onderaan op elke instructiepagina een aantal links waar je op kunt klikken.  
+
+ * Met **Start** keer je terug naar deze pagina
+ * Met de andere links ga je naar de instructiespagina van de genoemde opdracht
 <br><br>
 <center>
-Klik <a href="./mijnenveger-opdracht0.md">hier</a> voor de eerste opdracht (De werkomgeving).
+Klik nu <a href="./mijnenveger-opdracht0.md">hier</a> voor de eerste opdracht (instellen van de werkomgeving).
 </center>

@@ -20,10 +20,6 @@ Als je je **Trinket* werkomgeving geopend hebt, begint het echte werk!
 ▶▶▶ Klik nu op <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">*Trinket*</a> om je werkomgeving te openen.  
 
 
-Om te navigeren tussen de opdrachten, vind je op elke pagina onderaan een aantal links waar je op kunt klikken.  
-Met de **Start** link keer je terug naar de overzichtspagina.  
-Klik op **opdracht 1** om naar opdracht 1 te gaan.  
-
 <center>
 <a href="./Instructies.md">Start</a>&emsp; 
 |&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 1</a>
