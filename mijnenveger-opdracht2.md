@@ -17,10 +17,10 @@ Probeer eerst zelf het antwoord te vinden voor je het opzoekt of controleert.
 >  #veld table td {<br>
     &emsp;background-color: rgb(195, 195, 195);<br>
     &emsp;width: 30px;<br>
-    &emsp;min-width: 30px;<br>  
+    &emsp;min-width: 30px;<br>
     &emsp;height: 30px;<br>
-    &emsp;min-height: 30px;<br>  
-    &emsp;**border: 1px solid black;**<br>  
+    &emsp;min-height: 30px;<br>
+    &emsp;**border: 1px solid black;**<br>
 }<br>
 </details>
 
