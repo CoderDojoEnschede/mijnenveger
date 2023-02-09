@@ -1,4 +1,4 @@
-# Opdracht 0: De werkomgeving<hr>
+# De werkomgeving<hr>
 
 De code waarin je gaat werken, staat in *Trinket*. *Trinket* is een website waarop je in de linker helft van het scherm kan programmeren en in de rechter helft van het scherm direct het resultaat ziet van wat je hebt aangepast.  
 
