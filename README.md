@@ -7,10 +7,10 @@ Het spel is overgenomen van https://iq.opengenus.org/minesweeper-game-using-js/.
 Licentie: CC0 1.0 Universal. Je mag deze code overal gebruiken, in je eigen projecten of om er geld mee te verdienen. Er is geen enkele verplichting om te verwijzen naar deze pagina of Coderdojo Enschede, maar het wordt wel gewaardeerd.
 
 Structuur:
-index.html {de startpagina}
-mijnenveger.css {de opmaak voor mijnenveger}
-images/mijnenvegerX_Y.png|jpg {images *}
-mijnenveger.js {de benodigde JavaScript code}
+index.html {de startpagina}  
+mijnenveger.css {de opmaak voor mijnenveger}  
+images/mijnenvegerX_Y.png|jpg {images *}  
+mijnenveger.js {de benodigde JavaScript code}  
 
 \* Uitgezonderd de Trinket afbeelding is voor afbeeldingen de naamconventie mijnenvegerX_Y.png gebruikt, waarbij X het nummer is uit de naam mijnenveger-opdrachtX en Y is een volgnummer van het image op die pagina.
 
