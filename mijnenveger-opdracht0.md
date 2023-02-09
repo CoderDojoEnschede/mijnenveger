@@ -14,11 +14,11 @@ Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisc
 <br>
 Het uiteindelijke spel komt er uit te zien als in de afbeelding hiernaast getoond.  
 <br>
-Als je je *Trinket* werkomgeving geopend hebt, begint het echte werk! 
-
+Als je je *Trinket* werkomgeving geopend hebt, begint het echte werk!<br> 
+<br>
 <b>▶▶▶ Klik nu op <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">*Trinket*</a> om je werkomgeving te openen.</b>   
 
-
+Als je *Trinket* werkomgeving geopend is, klik dan op opdracht 1 om verder te gaan.
 <hr>
 <center>
 <a href="./Instructies.md">Start</a>&emsp; 
