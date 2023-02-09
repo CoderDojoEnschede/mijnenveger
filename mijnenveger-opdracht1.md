@@ -45,7 +45,7 @@ Probeer eerst zelf het antwoord te vinden voordat je het antwoord controleert bi
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Mijnenveger&lt;/title&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;link rel="stylesheet" href="css/mijnenveger.css" type="text/css"&gt;<br>
->  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;script type="text/javascript" src="js/mijnenveger.js"&gt;\&lt;/script&gt;**<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;script type="text/javascript" src="js/mijnenveger.js"&gt;&lt;/script&gt;**<br>
 >  &lt;/head&gt;<br>
 </details>
 
