@@ -16,7 +16,7 @@ Het uiteindelijke spel komt er uit te zien als in de afbeelding hiernaast getoon
 <br>
 Als je je *Trinket* werkomgeving geopend hebt, begint het echte werk!<br> 
 <br>
-<b>▶▶▶ Klik nu <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">HIER</a> om je *Trinket* werkomgeving te openen.</b>
+<b>▶▶▶ Klik nu <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">HIER</a> om je Trinket werkomgeving te openen.</b>
 
 Als je werkomgeving geopend is, klik dan op opdracht 1 om verder te gaan.  
 <hr>
