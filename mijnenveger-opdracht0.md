@@ -10,16 +10,16 @@ Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisc
 
  > Wordt na het aanpassen van je code de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
 
-<img src="images/mijnenveger0_1.png" alt="drawing" width="400" align="right"/>
+<img src="images/mijnenveger0_1.png" alt="drawing" width="300" align="right"/>
 <br>
 Het uiteindelijke spel komt er uit te zien als in de afbeelding hiernaast getoond.  
 <br>
 Als je je *Trinket* werkomgeving geopend hebt, begint het echte werk! 
-<br><br><br><br><br>
 
-<b>▶▶▶ Klik nu op <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">*Trinket*</a> om je werkomgeving te openen.</b?>   
+<b>▶▶▶ Klik nu op <a href="https://trinket.io/embed/html/xxxxxxxxxxxx" target="_blank">*Trinket*</a> om je werkomgeving te openen.</b>   
 
 
+<hr>
 <center>
 <a href="./Instructies.md">Start</a>&emsp; 
 |&emsp;<a href="./mijnenveger-opdracht1.md">Opdracht 1</a>
