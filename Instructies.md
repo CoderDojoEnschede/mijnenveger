@@ -15,7 +15,7 @@ Op elke pagina welke hierna volgt, vind je een stukje uitleg en daarin een opdra
 Om te navigeren tussen de opdrachten, vind je onderaan op elke instructiepagina een aantal links waar je op kunt klikken.  
 
  * Met **Start** keer je terug naar deze pagina
- * Met de andere links ga je naar de instructiespagina van de genoemde opdracht
+ * Met de andere links ga je of naar de vorige of naar de volgende opdracht pagina
 <br><br>
 <center>
 Klik nu <a href="./mijnenveger-opdracht0.md">hier</a> voor de eerste opdracht (instellen van de werkomgeving).

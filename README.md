@@ -12,7 +12,7 @@ mijnenveger.css {de opmaak voor mijnenveger}
 images/mijnenvegerX_Y.png|jpg {images *}
 mijnenveger.js {de benodigde JavaScript code}
 
-\* Uitgezonderd de Trinket afbeelding is voor afbeeldingen de naamconventie mijnenveger-instructieX_Y.png gebruikt, waarbij X het nummer is uit de naam mijnenveger-opdrachtX en Y is een volgnummer van het image op die pagina.
+\* Uitgezonderd de Trinket afbeelding is voor afbeeldingen de naamconventie mijnenvegerX_Y.png gebruikt, waarbij X het nummer is uit de naam mijnenveger-opdrachtX en Y is een volgnummer van het image op die pagina.
 
 Opdrachten
 0: Trinket werkomgeving instellen **(concept gereed)**
@@ -21,7 +21,8 @@ Opdrachten
 naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizontale scheidingslijn **(concept gereed)**
 
 **Het spel is nog niet echt fraai**  
-2: We klikken zomaar wat rond en er gebeurt wel iets, maar waar moet je klikken en waarom? Geen idee waar vakjes zitten. We tonen daarom randen om de vakjes, zodat het speelveld herkenbaar is.
+2: We klikken zomaar wat rond en er gebeurt wel iets, maar waar moet je klikken en waarom? Geen idee waar vakjes zitten. We tonen daarom randen om de vakjes, zodat het speelveld herkenbaar is. **(concept gereed)**
+
 
 3: De cijfers zijn allemaal in dezelfde kleur. We veranderen de kleuren voor de cijfers in de css, zodat elk cijfer een eigen kleur krijgt.
 
