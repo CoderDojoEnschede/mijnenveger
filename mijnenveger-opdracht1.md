@@ -1,6 +1,6 @@
 # Opdracht 1: De eerste schreden<hr>
 
-Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in 'index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
+Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in `index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
 
 Om de code in de aparte bestanden toe te voegen (include), moeten we een verwijzing opnemen naar die bestanden. De verwijzingen moeten in de *&lt;head&gt;* sectie komen in het bestand `index.html`.
 
