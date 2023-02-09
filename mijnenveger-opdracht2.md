@@ -1,6 +1,6 @@
-# Opdracht 2: De eerste schreden<hr>
+# Opdracht 2: Het mijnenveld zichtbaar maken<hr>
 
-Klik maar eens wat rond op het speelscherm. Je zult zien dat er wel wat gebeurd als je op sommige plekken op het scherm klikt. Maar hoe weet je waar je precies moet klikken? Geen idee, dat kunnen we nu niet zien.
+Klik maar eens wat rond op het speelscherm. Je zult zien dat er wel wat gebeurt als je op sommige plekken in het browservenster klikt. Maar hoe weet je waar je precies moet klikken? Geen idee, dat kunnen we nu niet zien.
 
 Het mijnenveld en de afzondelijke vakjes, worden gemaakt door een tabel. Om die zichtbaar te maken, gaan we de afzonderlijke tabel cellen voorzien van een rand.
 
