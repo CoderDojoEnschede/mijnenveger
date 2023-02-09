@@ -14,14 +14,14 @@ Probeer eerst zelf het antwoord te vinden voor je het opzoekt of controleert.
 
 <details>
   <summary>Oplossing 2</summary>
->  #veld table td {  
-    &emsp;background-color: rgb(195, 195, 195);  
-    &emsp;width: 30px;  
-    &emsp;min-width: 30px;  
-    &emsp;height: 30px;  
-    &emsp;min-height: 30px;  
-    &emsp;**border: 1px solid black;**      
-}  
+>  #veld table td {<br>
+    &emsp;background-color: rgb(195, 195, 195);<br>
+    &emsp;width: 30px;<br>
+    &emsp;min-width: 30px;<br>  
+    &emsp;height: 30px;<br>
+    &emsp;min-height: 30px;<br>  
+    &emsp;**border: 1px solid black;**<br>  
+}<br>
 </details>
 
 Herstart nu het spel door toets F5 te drukken. Beter zo?
