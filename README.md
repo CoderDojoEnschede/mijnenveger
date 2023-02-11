@@ -24,7 +24,7 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 2: We klikken zomaar wat rond en er gebeurt wel iets, maar waar moet je klikken en waarom? Geen idee waar vakjes zitten. We tonen daarom randen om de vakjes, zodat het speelveld herkenbaar is. **(concept gereed)**
 
 
-3: De cijfers zijn allemaal in dezelfde kleur. We veranderen de kleuren voor de cijfers in de css, zodat elk cijfer een eigen kleur krijgt.
+3: De cijfers zijn allemaal in dezelfde kleur. We veranderen de kleuren voor de cijfers in de css, zodat elk cijfer een eigen kleur krijgt. **(concept gereed)**
 
 4: De bom is nu de letter B. We gebruiken voor de bom een afbeelding i.p.v. de letter B.
 

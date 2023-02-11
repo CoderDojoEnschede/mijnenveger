@@ -60,7 +60,7 @@ Op de pagina willen we graag de naam van het spel `Mijnenveger`als kop in groott
 	 <br>Deze code moet in de body van index.html komen.
 </details>
 
-Het resultaat moet eruit zien als in de afbeelding hieronder<br><br>
+Het resultaat moet eruit zien als in de afbeelding hieronder. Als dat het geval is, kun je verder met opdracht 2.
 <center>
 
 <img src=images/mijnenveger1_1.png width="60%"/><br>

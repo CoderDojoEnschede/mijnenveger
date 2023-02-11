@@ -24,7 +24,9 @@ Probeer eerst zelf het antwoord te vinden voor je het opzoekt of controleert.
 }<br>
 </details>
 
-Herstart nu het spel door toets F5 te drukken. Beter zo?
+Herstart nu het spel door toets F5 te drukken. Beter zo? 
+
+Als je tevreden bent, ga dan verder met opdracht 3.
 
 <hr>
 <center>
