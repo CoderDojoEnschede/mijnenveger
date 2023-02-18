@@ -1,12 +1,12 @@
 var components = {
-// ▼▼▼ Opdracht 7 ▼▼▼ //
+// ▼▼▼ Opdracht 8 ▼▼▼ //
     num_of_rows : 10,
     num_of_cols : 20,
-// ▲▲▲ Opdracht 7 ▲▲▲ //
-
-// ▼▼▼ Opdracht 8 ▼▼▼ //
-    num_of_bombs : 35,
 // ▲▲▲ Opdracht 8 ▲▲▲ //
+
+// ▼▼▼ Opdracht 7 ▼▼▼ //
+    num_of_bombs : 35,
+// ▲▲▲ Opdracht 7 ▲▲▲ //
 
 // ▼▼▼ Opdracht 4a ▼▼▼ //
     bomb : 'B',

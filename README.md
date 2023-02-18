@@ -32,9 +32,9 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 
 6: We zijn steeds op F5 drukken zat voor een herstart van het spel en willen een *start nieuw spel* knop **(concept gereed)**
 
-7: We passen het aantal rijen en kolommen aan. **(concept gereed)**
+7: We veranderen het aantal bommen in ons spel. **(concept gereed)**
 
-8: We veranderen het aantal bommen in ons spel.
+8: We passen het aantal rijen en kolommen aan. **(concept gereed)**
 
 9: We veranderen de veld- en karaktergrootte (css) mits karaktergrootte van bom en getal in de velden hierop passend zijn te maken.
 
