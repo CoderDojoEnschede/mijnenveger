@@ -37,7 +37,7 @@ Als je wat hulp nodig hebt bij het vinden van de namen voor kleuren, kijk dan op
     &emsp;num_of_bombs : 35,<br>
     &emsp;bomb : 'B',<br>
     &emsp;alive : true,<br>
-    &emsp;**colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}**<br>
+    <b>&emsp;colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}</b><br>
 }
 </details>
 
@@ -51,5 +51,3 @@ Als je tevreden bent, ga dan verder met opdracht 4.
 &emsp;<a href="./Instructies.md">Start</a> 
 &emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 4</a>
 </center>
-
-

@@ -26,9 +26,9 @@ Ga, als dit gelukt is, verder met opdracht 7.
 
 <hr>
 <center>
-&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 5</a>
+&emsp;<a href="./mijnenveger-opdracht5.md">Opdracht 5</a>
 &emsp;<a href="./Instructies.md">Start</a> 
-&emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 7</a>
+&emsp;<a href="./mijnenveger-opdracht7.md">Opdracht 7</a>
 </center>
 
 

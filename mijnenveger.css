@@ -24,7 +24,9 @@ h2, h3{
     min-width: 30px;
     height: 30px;
     min-height: 30px;
-    border: 1px solid black;    
+/** ▼▼▼ Opdracht 2 ▼▼▼ **/
+    border: 0px solid black;
+/** ▲▲▲ Opdracht 2 ▲▲▲ **/    
 }
 
 button {

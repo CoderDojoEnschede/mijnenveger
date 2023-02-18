@@ -21,9 +21,9 @@ Ga nu verder met opdracht 6.
 
 <hr>
 <center>
-&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 4</a>
+&emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 4</a>
 &emsp;<a href="./Instructies.md">Start</a> 
-&emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 6	</a>
+&emsp;<a href="./mijnenveger-opdracht6.md">Opdracht 6</a>
 </center>
 
 

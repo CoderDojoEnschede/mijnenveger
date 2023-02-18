@@ -17,9 +17,9 @@ Als je tevreden bent, ga dan verder met opdracht 9.
 
 <hr>
 <center>
-&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 7</a>
+&emsp;<a href="./mijnenveger-opdracht7.md">Opdracht 7</a>
 &emsp;<a href="./Instructies.md">Start</a> 
-&emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 9</a>
+&emsp;<a href="./mijnenveger-opdracht9.md">Opdracht 9</a>
 </center>
 
 

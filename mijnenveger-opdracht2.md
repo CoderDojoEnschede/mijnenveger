@@ -20,7 +20,7 @@ Probeer eerst zelf het antwoord te vinden voor je het opzoekt of controleert.
     &emsp;min-width: 30px;<br>
     &emsp;height: 30px;<br>
     &emsp;min-height: 30px;<br>
-    &emsp;**border: 1px solid black;**<br>
+    <b>&emsp;border: 1px solid black;</b><br>
 }<br>
 </details>
 
@@ -34,5 +34,3 @@ Als je tevreden bent, ga dan verder met opdracht 3.
 &emsp;<a href="./Instructies.md">Start</a> 
 &emsp;<a href="./mijnenveger-opdracht3.md">Opdracht 3</a>
 </center>
-
-
