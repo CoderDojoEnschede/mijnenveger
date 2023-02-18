@@ -5,7 +5,10 @@ var components = {
     num_of_bombs : 35,
 	 // ▲▲▲ Opdracht X ▲▲▲ //
 
-    bomb : '💣',
+	 // ▼▼▼ Opdracht 4a ▼▼▼ //
+    bomb : 'B',
+	 // ▲▲▲ Opdracht 4a ▲▲▲ //
+
     alive : true,
     colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}
 }
@@ -204,11 +207,12 @@ function performMassClick(cell, row, col) {
     }
 }
 
-function gameOver() {
-    components.alive = false;
-    document.getElementById('game-over').style.display="block";
-    
-}
+// ▼▼▼ Opdracht 5 ▼▼▼ //
+//function gameOver() {
+//    components.alive = false;
+//    document.getElementById('game-over').style.display="block";
+//}
+// ▲▲▲ Opdracht 5 ▲▲▲ //
 
 function reload(){
     window.location.reload();
