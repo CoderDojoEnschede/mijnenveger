@@ -28,9 +28,9 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 
 4: De bom is nu de letter B. We gebruiken voor de bom een afbeelding i.p.v. de letter B. **(concept gereed)**
 
-5: Het spel stop niet als we op een bom stappen. We zorgen dat het spel eindigt met een melding als er op een bom wordt gestapt.
+5: Het spel stop niet als we op een bom stappen. We zorgen dat het spel eindigt met een melding als er op een bom wordt gestapt. **(concept gereed)**
 
-6: We zijn steeds op F5 drukken zat voor een herstart van het spel en willen een *start nieuw spel* knop
+6: We zijn steeds op F5 drukken zat voor een herstart van het spel en willen een *start nieuw spel* knop **(concept gereed)**
 
 7: We passen het aantal rijen en kolommen aan.
 

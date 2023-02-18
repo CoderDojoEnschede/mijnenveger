@@ -17,7 +17,7 @@ function gameOver() {
 
 Herstart nu het spel door op F5 te drukken en zoek maar snel een vakje met een bom op. Het spel moet nu netjes eindigen. 
 
-Ga dan verder met opdracht 6.
+Ga nu verder met opdracht 6.
 
 <hr>
 <center>
