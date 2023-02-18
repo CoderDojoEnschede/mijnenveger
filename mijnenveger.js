@@ -1,13 +1,16 @@
 var components = {
-	 // ▼▼▼ Opdracht X ▼▼▼ //
+// ▼▼▼ Opdracht 7 ▼▼▼ //
     num_of_rows : 10,
     num_of_cols : 20,
-    num_of_bombs : 35,
-	 // ▲▲▲ Opdracht X ▲▲▲ //
+// ▲▲▲ Opdracht 7 ▲▲▲ //
 
-	 // ▼▼▼ Opdracht 4a ▼▼▼ //
+// ▼▼▼ Opdracht 8 ▼▼▼ //
+    num_of_bombs : 35,
+// ▲▲▲ Opdracht 8 ▲▲▲ //
+
+// ▼▼▼ Opdracht 4a ▼▼▼ //
     bomb : 'B',
-	 // ▲▲▲ Opdracht 4a ▲▲▲ //
+// ▲▲▲ Opdracht 4a ▲▲▲ //
 
     alive : true,
     colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}
