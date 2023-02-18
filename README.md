@@ -38,14 +38,10 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 
 9: We veranderen de veld- en karaktergrootte (css) mits karaktergrootte van bom en getal in de velden hierop passend zijn te maken. **(concept gereed)**
 
-10: We maken een popup venster button met een popup venster met daarin een uitleg van het spel.
+10: We maken een popup venster button met een popup venster met daarin een uitleg van het spel. **(concept gereed)**
 
-Alternatieven in geval een bovenstaande niet lukt
--   de kleur van geflagde velden naar eigen smaak veranderen
--   het spel met de boolean alive manipuleren
-
-Extra opdrachten:  
-- 	toevoegen van schermgestuurde instel opties om aantal kolommen, rijen en bommen in te stellen (nu hardcoded in js).
--   teller die afloopt naar 0 met max kliktijd welke speler krijgt om na vorige vak een volgend vak te openen.  
+Bonus opdrachten:  
+- 	toevoegen van instel optie in het scherm om aantal kolommen, rijen en bommen in te stellen (nu hardcoded in js).
+-   teller die per vakje te openen afloopt naar 0 met max tijd welke speler krijgt om na vorige vak een volgend vak te openen.  
 -   oplopende moeilijkheidsgraad inbouwen om na voltooiing spel (of via een levelkeuze) van makkelijk naar moeilijker te gaan (meer velden, meer bommen, kortere kliktijd).  
 -   Verfraaiing pagina door (bom) afbeelding of andere verfraaiing op de pagina toe te voegen (bijv in titelgebied)  
