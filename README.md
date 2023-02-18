@@ -36,7 +36,7 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 
 8: We passen het aantal rijen en kolommen aan. **(concept gereed)**
 
-9: We veranderen de veld- en karaktergrootte (css) mits karaktergrootte van bom en getal in de velden hierop passend zijn te maken.
+9: We veranderen de veld- en karaktergrootte (css) mits karaktergrootte van bom en getal in de velden hierop passend zijn te maken. **(concept gereed)**
 
 10: We maken een popup venster button met een popup venster met daarin een uitleg van het spel.
 

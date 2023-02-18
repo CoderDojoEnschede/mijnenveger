@@ -12,18 +12,24 @@ h2, h3{
 
 #veld table {
     border-collapse: collapse;
+/** ▼▼▼ Opdracht 9b ▼▼▼ **/
     font-size: 150%;
+/** ▲▲▲ Opdracht 9b ▲▲▲ **/ 
     font-family: san-serif;
     font-weight: bold;
     display: inline-block;
 }
 
+
 #veld table td {
     background-color: rgb(195, 195, 195);
+/** ▼▼▼ Opdracht 9a ▼▼▼ **/
     width: 30px;
     min-width: 30px;
     height: 30px;
     min-height: 30px;
+/** ▲▲▲ Opdracht 9a ▲▲▲ **/ 
+
 /** ▼▼▼ Opdracht 2 ▼▼▼ **/
     border: 0px solid black;
 /** ▲▲▲ Opdracht 2 ▲▲▲ **/    
