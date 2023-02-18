@@ -47,7 +47,7 @@ Als je tevreden bent, ga dan verder met opdracht 4.
 
 <hr>
 <center>
-&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 1</a>
+&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 2</a>
 &emsp;<a href="./Instructies.md">Start</a> 
 &emsp;<a href="./mijnenveger-opdracht4.md">Opdracht 4</a>
 </center>

@@ -26,7 +26,7 @@ naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizo
 
 3: De cijfers zijn allemaal in dezelfde kleur. We veranderen de kleuren voor de cijfers in de css, zodat elk cijfer een eigen kleur krijgt. **(concept gereed)**
 
-4: De bom is nu de letter B. We gebruiken voor de bom een afbeelding i.p.v. de letter B.
+4: De bom is nu de letter B. We gebruiken voor de bom een afbeelding i.p.v. de letter B. **(concept gereed)**
 
 5: Het spel stop niet als we op een bom stappen. We zorgen dat het spel eindigt met een melding als er op een bom wordt gestapt.
 
