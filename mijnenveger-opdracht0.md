@@ -10,7 +10,8 @@ Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisc
 
  > Wordt na het aanpassen van je code de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
 
-▶▶▶ Open je Trinket werkomgeving door op de link te klikken. 		<a href="https://trinket.io/embed/html/2deca5dc08" target="cd-od_trinket_mijnenveger" rel="noopener noreferrer">https://trinket.io/embed/html/2deca5dc08</a>
+▶▶▶ Open je Trinket werkomgeving door op de link te klikken.
+[Trinket werkomgeving](https://trinket.io/embed/html/2deca5dc08) 
 
 Als je werkomgeving geopend is, klik dan op opdracht 1 om verder te gaan.  
 <hr>

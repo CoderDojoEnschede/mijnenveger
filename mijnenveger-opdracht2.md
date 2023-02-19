@@ -4,11 +4,11 @@ Klik maar eens wat rond op het speelscherm. Je zult zien dat er wel wat gebeurt 
 
 Het mijnenveld en de afzondelijke vakjes, worden gemaakt door een tabel. Om die zichtbaar te maken, gaan we de afzonderlijke tabel cellen voorzien van een rand.
 
-De tabelopmaak code (CSS) staat in het bestand `mijnenveger.css`<br>
+De opmaak code (CSS) voor de tabel staat in het bestand `mijnenveger.css`<br>
 
-▶▶▶ Zoek *Opdracht 2* op in het bestand `mijnenveger.css` en verander de code dusdanig dat de vakjes een zichtbare rand van 1 pixel breed krijgen, zodat het scherm er uit ziet als in de afbeelding.
+▶▶▶ Zoek *Opdracht 2* op in het bestand `mijnenveger.css` en verander de code zodanig dat de vakjes een zichtbare rand van 1 pixel breed krijgen, zodat het scherm er uit ziet als in de afbeelding.
 
-<img src="images/mijnenveger1_1.png" alt="drawing" width="600"/><br>
+<img src="images/mijnenveger1_1.png" alt="drawing" width="600"/>
   
 Probeer eerst zelf het antwoord te vinden voor je het opzoekt of controleert.
 
