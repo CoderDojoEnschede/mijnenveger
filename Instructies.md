@@ -3,9 +3,9 @@
 Je gaat het spel **Mijnenveger** maken. Wij hebben het spel voorbereid, maar het is nog niet af. Als je alle opdrachten hebt uitgevoerd, heb je een werkende versie van Mijnenveger.
 
 ## Het spel Mijnenveger
-Mijnenveger, in het Engels Minesweeper genaamd, is een spel dat bestaat uit een veld met gesloten vakjes. Onder sommige vakjes zit een mijn verstopt. Doel van het spel is alle vakjes op het veld te openen waar geen mijn onder verstopt is. De allereerste zet klik je een vakje in het mijnenveld open en kun je alleen maar hopen dat er geen mijn onder zit. Als er geen mijn zit, zal er een nummer verschijnen in het vakje. Dit nummer geeft het aantal vakjes weer waar mijnen onder verstopt zitten. Bijvoorbeeld: Als in een vakje het getal 2 staat, ligt dat vakje tegen 2 andere vakjes aan (recht of schuin) waaronder een mijn verstopt is. De kunst van het spel is om gebruik te maken van die nummers en zo te proberen om uit te vinden onder welk vakje een mijn ligt. Dat vakje moet je dus niet openen. Open je een vakje met een mijn eronder, dan is het spel afgelopen.
+Mijnenveger, in het Engels Minesweeper genaamd, is een spel dat bestaat uit een veld met gesloten vakjes. Onder sommige vakjes zit een bom verstopt. Doel van het spel is alle vakjes op het veld te openen waar geen bom ligt. De allereerste zet klik je een vakje in het mijnenveld open en kun je alleen maar hopen dat er geen bom onder zit. Als er geen bom zit, kan er een nummer verschijnen in het vakje. Dit nummer geeft het aantal aangrenzende vakjes weer waar een bom onder verstopt zit. Bijvoorbeeld: Als in een vakje het getal 2 staat, ligt dat vakje tegen 2 andere vakjes aan (recht of schuin) waaronder een bom verstopt is. De kunst van het spel is om gebruik te maken van die nummers en zo te proberen om uit te vinden onder welk vakje een bom ligt. Dat vakje moet je dus niet openen. Open je een vakje met een bom eronder, dan is het spel afgelopen.
 
-De moeilijkheidsgraad van het spel is afhankelijk van het aantal vakjes in het speelveld en de hoeveelheid mijnen verstopt. 
+De moeilijkheidsgraad van het spel is afhankelijk van het aantal vakjes in het speelveld en de hoeveelheid bommen die erin verstopt zijn. 
 
 <img src="images/mijnenveger0_1.png" alt="drawing" width="500" align="right"/>
 <br>
