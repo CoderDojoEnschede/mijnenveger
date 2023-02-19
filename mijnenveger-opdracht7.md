@@ -2,13 +2,13 @@
 
 In het spel zitten standaard 35 bommen verstopt onder de vakjes. Je gaat nu het aantal bommen aanpassen. 
 
-Je mag zelf kiezen hoeveel bommen je wilt plaatsen in jouw mijnenveld, maar teveel bommen maken het spel wel erg moeilijk en misschien zelfs onspeelbaar. 
+Je mag zelf kiezen hoeveel bommen je wilt plaatsen in jouw mijnenveld, maar teveel bommen maken het spel wel erg moeilijk en misschien zelfs onspeelbaar. Dus maak het niet te bont.
 
 ▶▶▶ Zoek *Opdracht 7* op in het bestand `mijnenveger.js` en experimenteer met het aantal bommen in jouw mijnenveld.
 
 <details>
 <summary>Oplossing 7</summary>
-Je mag voor de het aantal bommen jouw eigen waarden kiezen.  
+Je mag voor het aantal bommen jouw eigen getal kiezen.  
 >&emsp;num_of_bombs : 35,  
 </details>
 

@@ -1,12 +1,12 @@
-# Opdracht 9: Spelen met de grootte van de vakjes<hr>
+# Opdracht 9: Grootte van vakjes<hr>
 
-Het kan zijn dat je na het aanpassen van de aantallen bij rijen en kolommen net te weinig beeldscherm hebt om niet te hoeven scrollen. Hoewel het voor het uiterlijk niet aan te bevelen is om de vakjes te klein te maken, is het wel mogelijk om iets te spelen met de grootte van de karakters. Hierdoor kun je de ruimte op het scherm van het mijnenveld wat groter of kleiner maken en daardoor voorkomen dat scrollen nodig is. Maak je de vakjes te klein, dan passen mogelijk de cijfers en bommen niet meer netjes in de vakjes.
+Het kan zijn dat je na het aanpassen van de aantallen rijen en kolommen net te weinig beeldscherm hebt om niet te hoeven scrollen. Hoewel het voor de leesbaarheid niet aan te bevelen is om alles te klein te maken, is het wel mogelijk om nog iets te spelen met de grootte van de vakjes en karakters. Hierdoor kun je het mijnenveld wat groter of kleiner maken en daarmee voorkomen dat scrollen nodig is. Maak je de vakjes te klein, dan passen mogelijk de cijfers en bommen niet meer netjes in de vakjes.
 
-▶▶▶ Zoek *Opdracht 9a en 9b* op in het bestand `mijnenveger.js` en experimenteer met de grootte van de vakjes (9a) en de font size (9b), maar zorg er wel voor dat de cijfers en de bom nog netjes passen binnen de vakjes.
+▶▶▶ Zoek *Opdracht 9a en 9b* op in het bestand `mijnenveger.js` en experimenteer met de grootte van de vakjes (9a) en de font size (9b), maar zorg er wel voor dat de cijfers en de bom nog netjes worden weergegeven en passen binnen de vakjes.
 
 <details>
 <summary>Oplossing 9a</summary>
-Pas `width, min-width, height, min-height` aan naar zoals jij de grootte van de vakjes in schermpixels mooi vindt.  
+Pas de pixelgrootte van width, min-width, height, min-height` aan naar jouw smaak.  
 >#veld table td {  
 &emsp;background-color: rgb(195, 195, 195);  
 <b>&emsp;width: 30px;  
@@ -39,5 +39,3 @@ Als je tevreden bent, ga dan verder met de laatste opdracht 10.
 &emsp;<a href="./Instructies.md">Start</a> 
 &emsp;<a href="./mijnenveger-opdracht10.md">Opdracht 10</a>
 </center>
-
-

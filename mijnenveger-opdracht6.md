@@ -1,8 +1,8 @@
 # Opdracht 6: Een nieuw spel starten<hr>
 
-Nu eindigt het spel als je op een bom start, maar we moeten dan nog steeds op de F5 toets drukken om een nieuw spel te starten. Voor spelers is dit niet altijd duidelijk, dus ga je ervoor zorgen dat er een button verschijnt die het mogelijk maakt om een nieuw spel te starten.
+Nu eindigt het spel als je een vakje met een bom opent, maar we moeten dan nog steeds op de F5 toets drukken om een nieuw spel te starten. Dit is niet zo mooi, dus ga je ervoor zorgen dat er een button verschijnt om een nieuw spel te starten.
 
-Dit doen we door een button toe te voegen die de pagina opnieuw laad. Dat is hetzelfde als dat we op toets F5 drukken, maar nu is het starten van een nieuw spel wel een stuk duidelijker te vinden voor de speler.
+Dit doen we door een button toe te voegen die de pagina opnieuw laadt. Dat is hetzelfde als dat we op toets F5 drukken, maar nu is het starten van een nieuw spel wel een stuk duidelijker te vinden voor de speler.
 
 ▶▶▶ Zoek *Opdracht 6* op in het bestand `index.html` en voeg een regel toe voor het aanmaken van een button met de volgende kenmerken:
 
@@ -11,7 +11,7 @@ Dit doen we door een button toe te voegen die de pagina opnieuw laad. Dat is het
 * onclick="reload()"
 * De tekst op de button "Start nieuw spel"
 
-Zoek de juiste syntax voor een button op Internet of als dat niet mogelijk is of je er niet uitkomt, kijk dan wat staat onder Oplossing 6.
+Zoek zo nodig de juiste syntax voor een button op via Internet of als je het niet kunt vinden kijk dan bij Oplossing 6.
 
 <details>
 <summary>Oplossing 6</summary>

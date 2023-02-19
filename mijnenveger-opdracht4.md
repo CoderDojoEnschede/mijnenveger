@@ -31,19 +31,19 @@ In MacOS: druk command + control + space. Zoek de bom en voeg deze in.
 
 Herstart nu het spel door op F5 te drukken en zoek maar snel een vakje met een bom op ...... 
 
-WAT... Geen bom? Wel een paar rare karakters. Hoe kan dat nu? We hebben toch zojust zelf de bom wel degelijk in `mijnenveger.js` gezet toch? Maar dat je geen bom ziet, ligt niet aan jou. Dat komt omdat we een karakterset gebruiken die geen bom karakter bevat. Geen zorgen, we gaan je helpen om dat te fixen.
+![](images/mijnenveger4_1.png "mijnenveger")
 
+
+Hoe kan dat nu? Geen bom, maar wat vreemde karakters. We hebben toch  wel degelijk de B naar een bom afbeelding in `mijnenveger.js` aangepast toch? Maar je hebt niets fout gedaan. Dat je geen bom ziet ligt niet aan jou, maar komt omdat we een karakterset gebruiken die geen bom afbeelding als karakter bevat. We gaan je helpen om dat te fixen.
 
 ▶▶▶ Zoek *Opdracht 4b* op in het bestand `index.html` en zorg dat karakterset UTF-8 gebruikt wordt. Lukt dat niet, mag je spieken bij de oplossing
-
-<img src="images/mijnenveger4_1.png" alt="drawing" width="200"  align="right"/>
 
 <details>
 <summary>Oplossing 4b</summary>
 &lt;meta http-equiv="content-type" content="text/html;<b>charset=UTF-8</b>"&gt;
 </details>
 
-Herstart nu het spel door toets F5 te drukken en zoek maar snel een vakje met een bom op ...... 
+Herstart nu het spel door toets F5 te drukken en zoek maar snel een vakje met een bom op ...... Nu moet het wel kloppen en eruit zien als een bom.
 
 Als je tevreden bent, ga dan verder met opdracht 5.
 
