@@ -13,7 +13,8 @@ Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisc
 <br>
 Als je je *Trinket* werkomgeving geopend hebt, begint het echte werk!<br> 
 <br>
-<b>▶▶▶ <a href="https://trinket.i	o/html/2deca5dc08" target="_blank">OPEN</a> je Trinket werkomgeving.</b>
+▶▶▶ <a href="https://trinket.i	o/html/2deca5dc08" target="_blank">OPEN</a> je Trinket werkomgeving.</b>
+[Documentation](https://trinket.i	o/html/2deca5dc08)
 
 Als je werkomgeving geopend is, klik dan op opdracht 1 om verder te gaan.  
 <hr>
