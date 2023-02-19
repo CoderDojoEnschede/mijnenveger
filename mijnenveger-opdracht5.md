@@ -6,7 +6,7 @@ Om dat voor elkaar te krijgen is de functie gameOver toegevoegd, maar nog niet a
 
 ▶▶▶ Zoek *Opdracht 5* op in het bestand `mijnenveger.js` en verwijder de commentaartekens voor de regels van de functie gameOver. Let op dat je de commentaartekens niet weghaalt voor de teksten die markeren waar opdracht 5 staat.
 
-><details>
+<details>
 <summary>Oplossing 5</summary>
 // ▼▼▼ Opdracht 5 ▼▼▼ //    
 function gameOver() {  
