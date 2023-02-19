@@ -1,6 +1,6 @@
 # Opdracht 1: De eerste schreden<hr>
 
-Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in `index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
+Op de webpagina gebeurt nog niet zoveel. Dat komt omdat de benodigde opmaakcode en de JavaScript code nog niet worden gebruikt in je spel. De reden is dat deze code niet in `index.html` hebben gezet, maar dat de benodigde code in aparte bestanden staat waar ons spel nog niet bij kan. Dat gaan we veranderen.
 
 Om de code in de aparte bestanden toe te voegen (include), moeten we een verwijzing opnemen naar die bestanden. De verwijzingen moeten in de *&lt;head&gt;* sectie komen in het bestand `index.html`.
 
@@ -9,11 +9,11 @@ Om de code in de aparte bestanden toe te voegen (include), moeten we een verwijz
 
 De opmaak code (CSS) staat in het bestand `mijnenveger.css`<br>
 
-Zoek zelf uit welke instructie nodig is om dit bestand met css code op te nemen in het spel.
+Zoek zelf uit welke instructie nodig is om dit stijlbestand op te nemen in het spel.
 
 Probeer eerst zelf het antwoord te vinden en pas als het echt niet lukt, dan mag je bij Oplossing 1a spieken.
 
-▶▶▶ Zoek *Opdracht 1	a* in het bestand `index.html` en voeg de code op de juiste plaats toe. _Hint: je hebt de tag &lt;link&gt; voor het opmaak (css) bestand_
+▶▶▶ Zoek *Opdracht 1a* in het bestand `index.html` en voeg de code op de juiste plaats toe. _Hint: je hebt de tag &lt;link&gt; voor het opmaak (css) bestand_
 
 <details>
   <summary>Oplossing 1a</summary>
@@ -21,7 +21,7 @@ Probeer eerst zelf het antwoord te vinden en pas als het echt niet lukt, dan mag
 >  &lt;head&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Mijnenveger&lt;/title&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;<br>
->  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;link rel="stylesheet" href="css/mijnenveger.css" type="text/css"&gt;**<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;link rel="stylesheet" href="mijnenveger.css" type="text/css"&gt;**<br>
 >  &lt;/head&gt;<br>
 </details>
 
@@ -44,8 +44,8 @@ Probeer eerst zelf het antwoord te vinden voordat je het antwoord controleert bi
 >  &lt;head&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Mijnenveger&lt;/title&gt;<br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;<br>
->  &nbsp;&nbsp;&nbsp;&nbsp;&lt;link rel="stylesheet" href="css/mijnenveger.css" type="text/css"&gt;<br>
->  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;script type="text/javascript" src="js/mijnenveger.js"&gt;&lt;/script&gt;**<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&lt;link rel="stylesheet" href="mijnenveger.css" type="text/css"&gt;<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;**&lt;script type="text/javascript" src="mijnenveger.js"&gt;&lt;/script&gt;**<br>
 >  &lt;/head&gt;<br>
 </details>
 
