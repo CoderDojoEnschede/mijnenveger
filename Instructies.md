@@ -7,9 +7,8 @@ Mijnenveger, in het Engels Minesweeper genaamd, is een spel dat bestaat uit een 
 
 De moeilijkheidsgraad van het spel is afhankelijk van het aantal vakjes in het speelveld en de hoeveelheid bommen die erin verstopt zijn. 
 
-<img src="images/mijnenveger0_1.png" alt="drawing" width="500" align="right"/>
-<br>
-Het uiteindelijke spel komt er uit te zien als in de afbeelding hiernaast getoond.  
+Het uiteindelijke spel komt er uit te zien als in de afbeelding hieronder.  
+<img src="images/mijnenveger0_1.png" alt="drawing"/>
 
 
 ## Wat ga je doen
