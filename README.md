@@ -1,46 +1,23 @@
-# mijnenveger
+# Mijnenveger voor CoderDojo
 
-Mijnenveger is een eenpersoons puzzelspel. Doel van het spel is om de mijnen in het mijnenveld op te ruimen zonder dat je een mijn (bom) laat afgaan. Je enige hulp hierbij is je geluk en de getallen in de naastgelegen velden die aangeven hoeveel bomvelden tegen het gekozen veld aan liggen.
+Mijnenveger (Minesweeper) is een eenpersoons puzzelspel. Doel van het spel is om de mijnen in het mijnenveld op te ruimen zonder dat je een mijn (bom) laat afgaan. Je enige hulp hierbij is je geluk en de getallen in de naastgelegen velden die aangeven hoeveel bomvelden tegen het gekozen veld aan liggen.
 
 Het spel is overgenomen van https://iq.opengenus.org/minesweeper-game-using-js/. Bij dit spel op deze website is geen licentie vermelding gevonden. Daarom menen wij dat we de code vrij mogen gebruiken en dat anderen ook vrij gebruik kunnen maken van het afgeleide werk wat wij hebben gedaan op deze code.
 
 Licentie: CC0 1.0 Universal. Je mag deze code overal gebruiken, in je eigen projecten of om er geld mee te verdienen. Er is geen enkele verplichting om te verwijzen naar deze pagina of Coderdojo Enschede, maar het wordt wel gewaardeerd.
 
-Structuur:
+Het spel is nog niet werkend. Op basis van de instructies gaan de kinderen in de Dojo het spel voltooien en werkend maken.
+
+Structuur bestanden:
 index.html {de startpagina}  
 mijnenveger.css {de opmaak voor mijnenveger}  
-images/mijnenvegerX_Y.png|jpg {images *}  
 mijnenveger.js {de benodigde JavaScript code}  
+speluitleg.html {benodigd voor opdracht 10, maken pagina met speluitleg}  
+images/mijnenvegerX_Y.png|jpg {images *}  
 
-\* Uitgezonderd de Trinket afbeelding is voor afbeeldingen de naamconventie mijnenvegerX_Y.png gebruikt, waarbij X het nummer is uit de naam mijnenveger-opdrachtX en Y is een volgnummer van het image op die pagina.
+\* Uitgezonderd de Trinket afbeelding is voor afbeeldingen in de instructies voor de kinderen, de naamconventie mijnenvegerX_Y.png gebruikt, waarbij X het nummer is uit de naam mijnenveger-opdrachtX en Y is een volgnummer van de afbeelding is op die pagina.
 
-Opdrachten
-0: Trinket werkomgeving instellen **(concept gereed)**
-
-1: HTML/CSS/JavaScript links activeren --> spel zichtbaar
-naam spel (Mijnenveger) instellen bovenin de spelpagina met daaronder een horizontale scheidingslijn **(concept gereed)**
-
-**Het spel is nog niet echt fraai**  
-2: We klikken zomaar wat rond en er gebeurt wel iets, maar waar moet je klikken en waarom? Geen idee waar vakjes zitten. We tonen daarom randen om de vakjes, zodat het speelveld herkenbaar is. **(concept gereed)**
-
-
-3: De cijfers zijn allemaal in dezelfde kleur. We veranderen de kleuren voor de cijfers in de css, zodat elk cijfer een eigen kleur krijgt. **(concept gereed)**
-
-4: De bom is nu de letter B. We gebruiken voor de bom een afbeelding i.p.v. de letter B. **(concept gereed)**
-
-5: Het spel stop niet als we op een bom stappen. We zorgen dat het spel eindigt met een melding als er op een bom wordt gestapt. **(concept gereed)**
-
-6: We zijn steeds op F5 drukken zat voor een herstart van het spel en willen een *start nieuw spel* knop **(concept gereed)**
-
-7: We veranderen het aantal bommen in ons spel. **(concept gereed)**
-
-8: We passen het aantal rijen en kolommen aan. **(concept gereed)**
-
-9: We veranderen de veld- en karaktergrootte (css) mits karaktergrootte van bom en getal in de velden hierop passend zijn te maken. **(concept gereed)**
-
-10: We maken een popup venster button met een popup venster met daarin een uitleg van het spel. **(concept gereed)**
-
-Bonus opdrachten:  
+Mogelijke bonus opdrachten (nog niet uitgewerkt):  
 - 	toevoegen van instel optie in het scherm om aantal kolommen, rijen en bommen in te stellen (nu hardcoded in js).
 -   teller die per vakje te openen afloopt naar 0 met max tijd welke speler krijgt om na vorige vak een volgend vak te openen.  
 -   oplopende moeilijkheidsgraad inbouwen om na voltooiing spel (of via een levelkeuze) van makkelijk naar moeilijker te gaan (meer velden, meer bommen, kortere kliktijd).  
