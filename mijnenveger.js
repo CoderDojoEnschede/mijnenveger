@@ -15,7 +15,7 @@ var components = {
     alive : true,
 
 // ▼▼▼ Opdracht 3 ▼▼▼ //
-    colors : {1: 'blue', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'}
+    colors : {1: 'grey', 2: 'grey', 3: 'grey', 4: 'grey', 5: 'grey', 6: 'grey', 7: 'grey', 8: 'grey'}
 // ▲▲▲ Opdracht 3 ▲▲▲ //
 }
 
