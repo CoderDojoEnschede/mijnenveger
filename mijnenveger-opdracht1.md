@@ -67,7 +67,7 @@ Het resultaat moet eruit zien als in de afbeelding hieronder. Als dat het geval 
 
 &emsp;<a href="./mijnenveger-opdracht0.md">De werkomgeving</a>
 &emsp;<a href="./Instructies.md">Start</a> 
-&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 2 --></a>
+&emsp;<a href="./mijnenveger-opdracht2.md">Opdracht 2</a>
 </center>
 
 
