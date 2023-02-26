@@ -17,7 +17,6 @@ Zoek zo nodig de juiste syntax voor een button op via Internet of als je het nie
 <summary>Oplossing 6</summary>
 >// ▼▼▼ Opdracht 6 ▼▼▼ //  
 &emsp;&lt;button id="nieuw-spel" type="button" onclick="reload()"&gt;Start nieuw spel&lt;/button&gt;
-}  
 // ▲▲▲ Opdracht 6 ▲▲▲ //</details>
 
 Herstart nu het spel door op F5 te drukken en zoek maar snel een vakje met een bom op. Het spel eindigt en je ziet nu ook de button verschijnen voor het starten van een nieuw spel. 

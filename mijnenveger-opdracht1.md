@@ -33,7 +33,7 @@ Het spel heeft JavaScript nodig om goed te kunnen werken. Om de benodigde code b
 
 De benodigde JavaScript code halen we uit het bestand `mijnenveger.js`
 
-Probeer eerst zelf het antwoord te vinden voordat je het antwoord controleert bij oplossing 1b spieken.
+Probeer eerst zelf het antwoord te vinden voordat je het antwoord opzoekt bij oplossing 1b.
 
 ▶▶▶ Zoek *Opdracht 1b* in het bestand `index.html` en voeg de code op de juiste plaats toe. _Hint: je hebt de tag &lt;script&gt; nodig voor het JavaScript bestand_
 

@@ -6,7 +6,7 @@ Als je een vakje open klikt, kan het volgende gebeuren.
  + Het vakje wordt als enige geopend en bevat een cijfer
  + Als aangrenzend aan een vak geen vakjes met bommen liggen, worden meerdere veilige vakjes grijs en de vakjes aan de buitenzijde van het geopende vlak welke aan een bom grenzen zijn gevuld met een cijfer.
  
- Weet jij hoeveel bommen maximaal tegen 1 vakje aan kunnen liggen? <details> <summary>Klik hier voor het antwoord</summary>Aan 1 vakje grenzen maximaal 8 andere vakjes, dus heb je de cijfers 1 t/m 8 nodig</details> 
+ Weet jij hoeveel bommen maximaal tegen 1 vakje aan kunnen liggen? <details> <summary>Klik hier voor het antwoord</summary>Aan 1 vakje grenzen maximaal 8 andere vakjes, dus heb je de cijfers 1 t/m 8 nodig voor maximaal 8 bommen</details> 
 
 Het maximum aantal vakjes dat kan grenzen aan een vakje bepaalt het aantal cijfers wat je nog nodig hebt. De kans dat je de hoogste cijfers tegenkomt is klein, maar niet onmogelijk.
 

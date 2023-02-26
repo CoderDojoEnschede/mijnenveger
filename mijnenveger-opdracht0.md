@@ -8,7 +8,7 @@ Na het openen moet je aan de linker kant code zien en aan de rechter kant een pa
 
 Als je aan de linker kant de code aanpast, dan verandert de webpagina automatisch na een paar seconden aan de rechterkant. 
 
- > Wordt na het aanpassen van je code de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgene opdracht!
+ > Wordt na het aanpassen van je code de rechterkant van de pagina zwart, dan heb je waarschijnlijk een typefout gemaakt. Die fout moet je eerst oplossen voor je verder kunt gaan met de volgende opdracht!
 
 ▶▶▶ Open je Trinket werkomgeving door op de link te klikken.
 [Trinket werkomgeving](https://trinket.io/embed/html/2deca5dc08) 

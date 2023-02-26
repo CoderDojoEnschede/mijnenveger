@@ -9,7 +9,7 @@ In een computer kun je heel veel karakters (cijfers, letters, leestekens) gebrui
 
 Een computer weet niet dat je een A bedoelt, ook al druk je op de toets met een A erop. Niet alle computers hebben dezelfde toetsenbord indeling. Als je op een toets drukt, maakt de computer er ook niet direct een A van, maar geeft een getal. Dat dat getal een A wordt, daarvoor zorgt Windows (maar ook Linux en alle andere besturingssystemen). Welk karakter hoort dan bij wel getal? Dat bepaalt de karakterset welke is ingesteld. Want er zijn meer karaktersets. Een karakterset is voor te stellen als een grote tabel van cijfers waarachter het bijbehorende karakter afgebeeld staat.
 
-In het allereerste begin van de computer was het voldoende om de standaard gebruikte letters, cijfers en leestekens te kunnen afbeelden en was de meest gebruikte karakterset ASCII (zoek maar eens op Internet als je hier meer over wilt weten). ASCII gebruikt 7 bits uit 1 computer byte, maar kan daarom maar 128 karakters bevatten. Omdat mensen al gauw erachter kwamen dat veel meer karakters kunnen gebruiken nodig is, onder andere om ook internationale (bijvoorbeeld Chinese of Hebreeuwse) karakters te kunnen weergeven, zijn er nieuwe karaktersets bedacht. Voor mijnenveger gebruiken wij karakterset UTF-8. Met UTF-8 kunnen maximaal 1,112,064 karakters worden gebruikt. Zoveel hebben wij er gelukkig niet nodig voor mijnenveger.
+In het allereerste begin van de computer was het voldoende om de standaard gebruikte letters, cijfers en leestekens te kunnen afbeelden en was de meest gebruikte karakterset ASCII (zoek maar eens op Internet als je hier meer over wilt weten). ASCII gebruikt 7 bits uit 1 computer byte, maar kan daarom maar 128 karakters bevatten. Omdat mensen al gauw erachter kwamen dat we veel meer dan 128 karakters nodig hebben om iets weer te geven, onder andere om ook internationale (bijvoorbeeld Chinese of Hebreeuwse) karakters weer te kunnen geven, zijn er nieuwe karaktersets bedacht. Voor mijnenveger gebruiken wij karakterset UTF-8. Met UTF-8 kunnen maximaal 1.112.064 karakters worden gebruikt. Zoveel hebben wij er gelukkig niet nodig voor mijnenveger.
 
 Er is nog veel meer te vertellen over karaktersets, maar dat zou voor nu waarschijnlijk teveel informatie zijn. Dit was al veel informatie.</details>  
 
@@ -17,11 +17,11 @@ De bom is een speciaal karakter. Die vind je niet direct op je toetsenbord terug
 
 In Windows: druk ALT + . (toets met punt) tegelijk in. Zoek de bom en voeg deze in.
 
-In Linux: druk ctrl + shift + u tegelijk in en zonder wat anders te doen, type daarna 1F4A3 in gevolgd door de enter (of return) toets. De bom wordt ingevoegd.
+In Linux: druk ctrl + shift + u tegelijk in en zonder wat anders te doen, type daarna 1F4A3 in gevolgd door de spatiebalk toets. De bom wordt ingevoegd.
 
 In MacOS: druk command + control + space. Zoek de bom en voeg deze in.
 
-▶▶▶ Zoek *Opdracht 4a* op in het bestand `mijnenveger.js` en verander de letter B in een afbeelding van een bom met behulp van de bovengenoemde toetsencombinatie voor het door jou gebruikte  besturingssysteem.
+▶▶▶ Zoek *Opdracht 4a* op in het bestand `mijnenveger.js` en verander de letter B in een afbeelding van een bom met behulp van de bovengenoemde toetsencombinatie voor het door jou gebruikte  besturingssysteem. Als de bom goed is toegevoegd, mag je de letter B weghalen.
 
 <details>
   <summary>Oplossing 4a</summary>
